@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita:wght@400;700;900&display=swap');
+
+
+
+
+#main{
+    background-color: black;
+    font-family: 'Sansita', sans-serif;
+}
+
+.d-flex{
+    width: 1000px;
+}
+
+.navbar-brand{
+    background-color: rgb(230, 206, 70);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+
+#carouselExampleControls{
+    width: 950px;
+    margin: 50px;
+}
+
+.carousel-item{
+    border-radius: 10px;
+}
+
+#wl{
+    color: rgb(230, 206, 70);
+    margin-left: 50px;
+}
+
+#wl1{
+    color: aliceblue;
+    margin-left: 50px;
+}
+
+#next{
+    color: rgb(230, 206, 70);
+    margin: 50px;
+}
+
+.list-group-item list-group-item-action{
+    background-color: black;
+    color: aliceblue;
+}
